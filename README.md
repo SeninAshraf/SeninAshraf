@@ -29,15 +29,6 @@ I'm an AI & Data Science engineer from Kerala, India, who turns machine learning
 - 🏆 **Hackathons:** 2nd prize at Matrix Hackathon (MESCE, 2024) and 3rd prize at Kotech Hackathon (Kottakkal, 2025).
 - 🎤 **Community:** ran the *Prompt to Code* generative AI workshop for 100+ students, and hosted the ARCANE vibe-coding challenge.
 
-## 🧰 Skills
-
-| Area | Tools |
-| --- | --- |
-| **AI, Vision & ML** | Python, OpenCV, TensorFlow, PyTorch, YOLOv8, LBPH face recognition, Scikit-Learn, Prompt Engineering |
-| **Frontend & Full-Stack** | React, TypeScript, JavaScript, Next.js, TailwindCSS, HTML5 |
-| **Backend, APIs & Data** | FastAPI, Node.js, REST APIs, PostgreSQL, SQLite, Git, Linux |
-| **Engineering** | Data Structures & Algorithms, Computer Vision Pipelines, System Architecture, Performance Optimisation |
-
 ## 🛠️ Things I've built
 
 | Project | What it is |
