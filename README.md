@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Illustration of Senin coding at a desk" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Senin</h1>
 
 <p align="center">
@@ -14,6 +18,25 @@
   <a href="https://github.com/SeninAshraf"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:seninashraf765@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+## 🙋 About me
+
+I'm an AI & Data Science engineer from Kerala, India, who turns machine learning into software people can rely on. My work ranges from real-time computer vision pipelines with YOLO and OpenCV to conversational assistants that switch between Malayalam and English.
+
+- 💼 **Working:** Software Engineer Intern at **Metadesign Software Solutions**, Pune (since June 2026), building the backend of a movie booking system: transactional seat reservation, database schema and REST APIs.
+- 🎓 **Studied:** B.Tech in Artificial Intelligence & Data Science at **MES College of Engineering, Kuttippuram** (KTU, 2022–2026), 8.22 CGPA, First Class with Distinction.
+- 📚 **Learning:** Agentic AI (DeepLearning.AI · Coursera).
+- 🏆 **Hackathons:** 2nd prize at Matrix Hackathon (MESCE, 2024) and 3rd prize at Kotech Hackathon (Kottakkal, 2025).
+- 🎤 **Community:** ran the *Prompt to Code* generative AI workshop for 100+ students, and hosted the ARCANE vibe-coding challenge.
+
+## 🧰 Skills
+
+| Area | Tools |
+| --- | --- |
+| **AI, Vision & ML** | Python, OpenCV, TensorFlow, PyTorch, YOLOv8, LBPH face recognition, Scikit-Learn, Prompt Engineering |
+| **Frontend & Full-Stack** | React, TypeScript, JavaScript, Next.js, TailwindCSS, HTML5 |
+| **Backend, APIs & Data** | FastAPI, Node.js, REST APIs, PostgreSQL, SQLite, Git, Linux |
+| **Engineering** | Data Structures & Algorithms, Computer Vision Pipelines, System Architecture, Performance Optimisation |
 
 ## 🛠️ Things I've built
 
